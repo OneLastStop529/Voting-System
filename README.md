@@ -6,8 +6,6 @@ This electronic voting system will be a web-based application that will enable t
  
  ## Team Information
  Yize Hu yize.hu@wsu.edu WSU ID: 11684949 <br>
- Nikhil Chakravarthy Doppalapudi n.doppalapudi@wsu.edu   WSU ID: 011655295 <br>
  Rainy Sharma rainy.sharma@wsu.edu WSU ID: 11689832 <br>
- Coral Jain coral.jain@wsu.edu WSU ID: 11632780 <br>
- Hitesh Bahar hitesh.bahar@wsu.edu WSU ID: 11631807
+ Mohammad Nouman m.shafqat@wsu.edu WSU ID: 11697956
 
