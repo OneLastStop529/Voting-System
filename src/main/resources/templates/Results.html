@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+  </head>
+  <body>
+  
+  <div th:each="candidate : ${candidates}">
+    Results for far:
+    <a th:text="${candidate.name}" th:text="${candidate.number_of_votes}"></a>
+  </div>
+  </body>
+</html>
